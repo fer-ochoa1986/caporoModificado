@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Depilación Caporo</title>
+    <link rel="icon" href="pag.caporo/logocaporo.ico">
+    <link rel="stylesheet" href="caporo.css">
+
+</head>
+<body>
+    <main class="contenedorSec">
+        <section class="clase0" id="Depilación Caporo">
+            <img src="pag.caporo/logocaporo.png" width="200">
+    
+        <section class="clase2" id="Depilacion Caporo" >
+            <h2>Depilacion Caporo</h2>
+            <p>Aqui te dejamos algunas tecnicas que usamos de depilacion, tanto para mujeres como hombres. </p>
+            <p>Realizamos  estos tipos de depilacion</p>
+            <h3>Española</h3>
+            <p>Descartable</p>
+            <p>Roll on</p>
+            <p>Primix</p>
+            <p>Perfilados</p>
+            <h3>Aqui le dejamos unas fotos de nuestros trabajos</h3> 
+            <img src="pag.caporo/depi1.jpeg" width="200">
+            <img src="pag.caporo/depi2.jpeg" width="200">
+            <img src="pag.caporo/depi3.jpeg" width="200">
+            <img src="pag.caporo/depi4.jpeg" width="200">
+            <img src="pag.caporo/depi5.jpeg" width="200">   
+        </section>
+        <section id="clase6">
+            <footer>
+            </footer>
+        </section>
+    </main>
+</body>
+</html>

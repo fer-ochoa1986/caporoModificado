@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tienda online Caporo</title>
+    <link rel="icon" href="pag.caporo/logocaporo.ico">
+    <link rel="stylesheet" href="caporo.css">
+    <script  src="caporo.js"></script>
+
+</head>
+<body>
+    <header>
+        <main class="contenedorSec">
+            <section class="clase0" id="Tienda Online Caporo">
+                <img src="pag.caporo/logocaporo.png" width="200">
+            </section>
+    <main>
+    
+        <section class="clase3" id="Tienda online">
+            <h2>Productos</h2>
+            <p>Te presentamos algunos productos que tenemos a la venta</p>
+            <p> Nuestros productos son de buena calidad y marcas reconocidas. Consulta precios  por todos los medios de comuciacion</p>
+            <h3>Galeria</h3>
+            <img src="pag.caporo/prodcuto4.jpeg" width="200">
+            <img src="pag.caporo/producto1.jpeg" width="200">
+            <img src="pag.caporo/producto2.jpeg" width="200">
+            <img src="pag.caporo/producto3.jpeg" width="200">
+            <img src="pag.caporo/producto5.jpeg" width="200">
+            <img src="pag.caporo/producto6.jpeg" width="200">
+            <img src="pag.caporo/producto7.jpeg" width="200">
+            <img src="pag.caporo/producto8.jpeg" width="200">
+        </section>
+            <footer>
+            </footer>
+        </section>
+    </main>
+</body>
+</html>

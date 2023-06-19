@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manicura Caporo</title>
+    <link rel="stylesheet" href="caporo.css">
+    <script  src="caporo.js"> </script>
+
+</head>
+<body>
+  
+    </header>
+            <h2>Manicura</h2>
+            <p>Realizamos diferentes tecnincas en manicura.</p>
+             <p> Manicura Francesa</p>
+             <img src="pag.caporo/foto1.jpeg" width="150">
+             <p>Manicura Rusa</p>
+             <img src="pag.caporo/foto2.jpeg" width="150">
+             <p>Manicura Acrilico</p>
+             <img src="pag.caporo/foto3.jpeg" width="150">
+             <p>Manicura Semipermanente</p>
+             <img src="pag.caporo/foto4.jpeg" width="150">
+             <p>Manicura Soft Gel</p>
+             <img src="pag.caporo/foto5.jpeg" width="150px">
+        <section id="clase6">
+            </footer>
+            </footer>
+        </section>
+    </main>
+</body>
+</html>

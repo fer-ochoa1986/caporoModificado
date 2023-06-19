@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title> Caporo </title>
+  <enlace  rel =" icono " href =" https://github.com/fer-ochoa1986/caporo/blob/main/ pag.caporo/logocaporo.ico " >
+  <enlace  rel =" icono " href =" pag.caporo/logocaporo.ico ">
+  <enlace  rel =" hoja de estilo " href =" caporo.css " >
+  <guión   src =" caporo.js " > </ guión >
+  <enlace  rel =" hoja de estilo " href =" https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css " >
+  <style>
+    /* Estilos responsivos y CSS aquí */
+  </style>
+</head>
+<body>
+  <header>
+    <!-- Contenido del encabezado de la página -->
+    <h1><enlace  rel =" icono " href ="pag.caporo/logocaporo.ico"></h1>
+    <nav>
+      <!-- Navegación de la página -->
+      <ul>
+        <header>
+          <div class="contenedor">
+              <button id="menu">
+                  <span id="menu-abrir"> &#9776 </span>
+                  <span id="menu-cerrar"> X </span>
+              </button>
+              <nav>                                                                    <!-- Poner enlaces  -->
+                  <ul>
+                   <li><a href="#"> inicio</a></li>                     
+                   <li><a href="#"> manicura</a></li>
+                   <li><a href="#"> depilacion</a></li>
+                   <li><a href="#"> productos</a></li>
+                  </ul>
+              </nav>
+          </div>
+          </header>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <main>
+      <!-- Contenido principal de la página -->
+      <li><a href="https://www.otrapagina.com">Manicura</a></li>
+      <li><a href="https://www.otrapagina.com">Depilacion</a></li>
+      <li><a href="https://www.otrapagina.com">Encuesta</a></li>
+      <li><a href="https://www.otrapagina.com">Venta de productos</a></li>
+      <section>
+        <h2>Ubicación</h2>
+        <p> Nos podes encontrar por las siguientes vias de contacto </p >
+                 <a  href =" http://www.facebook.com " target =" _blank " >  < img  src = " https://github.com/fer-ochoa1986/caporo/blob/main/ pag.caporo/facebook. png " ancho =" 40 " > </ a >
+                 <a  href =" http://www.gmail.com " target =" _blank " >  < img  src = " https://github.com/fer-ochoa1986/caporo/blob/main/ pag.caporo/gmail. png "   ancho =" 40 " > </ a >
+                 <a  href =" http://www.instagram.com " target =" _blank " >  < img  src = " https://github.com/fer-ochoa1986/caporo/blob/main/ pag.caporo/instagram. png " ancho =" 40 " > </ a >
+                 <a  href =" http://www.tik-tok.com " target =" _blank " >  < img  src = " https://github.com/fer-ochoa1986/caporo/blob/main/ pag.caporo/ tik-tok.png " ancho =" 40 " > </ a >
+                 <a  href =" http://www.whatsapp.com " target =" _blank " >  < img  src = " https://github.com/fer-ochoa1986/caporo/blob/main/ pag.caporo/whatsapp. png "   ancho =" 40 " > </ a >
+                 <a  href =" http://www.facebook.com " target =" _blank " >  < img  src = " pag.caporo/facebook.png " ancho =" 40 " > </ a >
+                 <a  href =" http://www.gmail.com " target =" _blank " >  < img  src = " pag.caporo/gmail.png "   ancho =" 40 " > </ a >
+                 <a  href =" http://www.instagram.com " target =" _blank " >  < img  src = " pag.caporo/instagram.png " ancho =" 40 " > </ a >
+                 <a  href =" http://www.tik-tok.com " target =" _blank " >  < img  src = " pag.caporo/tik-tok.png " ancho =" 40 " > </ a >
+      </section>
+    </main>
+    
+  <footer>
+    <p>Derechos de autor &copy; 2023 - Caporo</p>
+    
+  </footer>
+</body>
+</html>
+
+
+   
